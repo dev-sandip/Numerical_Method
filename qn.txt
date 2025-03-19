@@ -1,0 +1,19 @@
+Newton's Forward Interpolation Formula(done)
+Newton's Backward Interpolation Formula
+Central difference interpolation : Sterling's Formula
+Central difference interpolation : Bessel's Formula
+Lagrange's Interpolation: Divided Differences(done)
+Least Square Method of fitting linear Curve
+Least Square Method of fitting non-linear Curve (a second degree parabola)
+Spline Integration
+
+
+Derivatives using Newton's Forward Interpolation
+Derivatives using Newton's backward Interpolation
+Derivatives using Sterling's Central Difference Formula
+Derivatives using Bessel's Central Difference Formula
+Maxima and minima
+Newton-cote General Quadrature Formula
+Trapezoidal, Simpson's 1/3, 3/8 rule
+Romberg Integration
+Guassian Integration
